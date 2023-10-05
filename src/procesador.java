@@ -1,3 +1,7 @@
+
+//esta clase esta añadida a git
+
+
 public class  procesador {
 //pasamos de de el diagrama de clases a java
     // simbolo + es un diagrama de clases esque es publico
